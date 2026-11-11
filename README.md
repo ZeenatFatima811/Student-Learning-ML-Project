@@ -5,6 +5,17 @@
 This project predicts whether a student passes or fails
 using a synthetic student learning dataset.
 
+
+
+## 🔗 Project Links
+
+### 🌐 Live Streamlit Application
+[Open Student Learning Prediction App](https://student-learning-ml-project-gvy9frru96duw62k97vmzy.streamlit.app/)
+
+### 💻 GitHub Repository
+[View Source Code on GitHub](https://github.com/ZeenatFatima811/Student-Learning-ML-Project)
+
+
 ## Dataset
 File: student_learning.csv
 
